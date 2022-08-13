@@ -1,0 +1,42 @@
+i{
+	cursor: pointer;
+}
+.fa-plus{
+	border: 1px solid #007bff;
+    border-radius: 40px;
+    font-size: 25px;
+    background-color: #007bff;
+    color: white;
+    padding: 8px 10px;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    
+}
+
+.columnastabla{
+    font-size: 20px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.tarea{
+    font-size: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.categoria{
+    
+    TEXT-ALIGN: CENTER;
+    MARGIN: 5PX;
+    JUSTIFY-CONTENT: CENTER;
+    pointer-events: none;
+}
+
+.eliminar{
+    TEXT-ALIGN: CENTER;
+    width: 110px;
+}
+
+
+
