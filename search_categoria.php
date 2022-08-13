@@ -9,5 +9,6 @@
             <input class="form-check-input get_value" type="checkbox" name="checkbox[]" id="checkbox[]" value="<?php echo $rowC['idcategoria'] ?>">
             <label class="form-check-label" for="inlineCheckbox1"><?php echo $rowC['categoria'] ?></label>
         </div>
-                                
+
+        
 <?php } ?> 
